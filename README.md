@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Fashion Website</title>
     <body>
       <a href="#contact"><img src="https://content.codecademy.com/courses/learn-html/elements-and-structure/profile.jpg"></a>
       <h3>by Isabelle Rodriguez | 1 day ago</h3>
